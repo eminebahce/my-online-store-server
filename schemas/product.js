@@ -16,7 +16,7 @@ export default {
     {
       title: 'Price',
       name: 'price',
-      type: 'number',
+      type: 'string',
     },
     {
       title: 'Image',

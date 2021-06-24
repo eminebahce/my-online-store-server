@@ -31,11 +31,6 @@ export default createSchema({
           type: 'datetime',
         },
         {
-          title: 'Total',
-          name: 'total',
-          type: 'number',
-        },
-        {
           title: 'Customer',
           name: 'customer',
           type: 'customer',
